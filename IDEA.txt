@@ -1,0 +1,33 @@
+Black background.
+Header section:
+- image for logo at the left
+- navigation bar at the right with links to projects, contacts more, donation and main page
+- with small white line at the bottom
+
+Main body section:
+- 2 white elements in middle: space for image and text space right next to it
+- space for description with small field for email
+
+Footer section:
+- footer with small white line at the top.
+- Image in the right corner of the footer.
+
+Осталось: 
+- для кнопки добавить радужную анимацию — DONE
+- доработать анимацию для короткого логотипа — DONE
+- добавить форму для email, продумать как и куда их собирать (чтобы в github этого не было видно) — SKIP, это много времени займет, нужно добавлять еще серверную сторону и т.п.
+- добавить размытие на картинку по краям? — DONE
+- картинку для верхнего логотипа доделать — SKIP, не думаю, что это сильно нужно
+- картинку для верхнего логотипа загрузить на сайт — SKIP
+- переделать обводку для короткого логотипа, добавить более толстую обводку
+- нужно ли указывать copyright? 
+- сдвинуть copyright от маленького логотипа, убедиться, что это не влияет на суженную версию сайта
+- Продумать наполнение страниц
+- Как вкратце описать себя?
+- заполнить страницы
+
+- приступить к реализации разделов после верхних пунктов, чтобы потом обновленный дизайн не приходилось переносить с страницы на страницу
+- понять как хостить сайт (хочется бесплатно)
+
+- domain registers
+- SSL?
