@@ -53,6 +53,7 @@ section{
     justify-content: center;
     align-items: center;
     gap: 8rem;
+    padding-bottom: 12rem;
 }
 
 .home .home-content h1{
